@@ -1,2 +1,2 @@
-console.log("Faryad2");
+console.log("Faryad");
  
